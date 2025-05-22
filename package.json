@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/quantum-bananas/",
+    "build": "vite build --base=/119_html-css_quantum-bananas/",
     "preview": "vite preview"
   },
   "devDependencies": {
